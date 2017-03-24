@@ -1,0 +1,203 @@
+{
+	"questions": [{
+		"response": "Hi <user>, I am HelpDesk Bot. How can I help you today?",
+		"key": "welcome_greeting",
+		"tType": "text",
+		"options": []
+	}, {
+		"response": "You are entitled to 5 days of Paternity leaves which can be taken in parts, if required, within 6 months of birth/adoption of a child.",
+		"key": "pat_leave_option",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You will be eligible for host country's public holidays and floating holidays if you are working on a host country on that date. Upon repatriation, you should be eligible for home country's public holiday and floating holidays. Unused floaters (because of work reasons etc.), will not get transfer over to home country, It will be lost.",
+		"key": "stai",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Paternity leaves can be carried forward up to 6 months from the date of birth of the baby.For detailed information on the vacation policy please refer to the http://peopleportal2/Content/GPC/Ind/Pages/India-Parental-Program-Paternity-Policy.aspx",
+		"key": "mat_leave_carryforward",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Yes, you can combine your  Priviledged Leaves and Casual Leaves post getting approval from your People Manager.",
+		"key": "pl_cl_combine",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "While you can combine till date accrued Priviledge Leaves or current year's Sick Leaves with maternity leaves, such leave plans should necessarily be discussed with the People Manager, since long leave will have impact on the functioning of the department.",
+		"key": "combine_leaves",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "People on probation can avail up to 7 days of advance Privileged Leaves/Vacations and confirmed people can avail up to 15 days of advanced Privileged Leaves/Vacations.  However this is subject to the approval / discretion of your People Manager and People Strategist. Please note that you are expected to set off the negative vacation with your monthly accruals by the end of each calendar year else the same shall be adjusted at the start of subsequent calendar year.",
+		"key": "advance_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You will not need to submit any time cards for the duration of your Maternity Leave. Instead, your status will be changed in our systems to reflect your absence. You can go through the Time tracking guidelines on the below mentioned link for the details: https://peopleportal2.sapient.com/Content/TimeTracking/Pages/Time-Tracking-Instructions.aspx",
+		"key": "timesheet_loa",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "An individual can avail initial 7 sick leaves in a year in case he is not well and would not be required to provide any document for the same.For detailed information on the vacation policy please refer to the link http://peopleportal2/NavPages/Pages/Vacation-Time-Off.aspx?Geo=INDIA",
+		"key": "sick_leave_medical",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "We currently do not have any overtime policy. For compensatory off policy please reach out to your People Manager. For On-call or Shift allowance policy, please reach out to your People Manager or People Strategist.",
+		"key": "overtime_policy",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Sapient do not have a provision of Sabbatical leaves in India. However, you may go through the Sapient Leave of Absence policy on People below at below link http://peopleportal2/NavPages/Pages/Vacation-Time-Off.aspx?Geo=INDIA",
+		"key": "sabbatical_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Weekends (Saturday and Sunday) and public holidays within your leave period are not counted as days off and do not impact your vacation balances.",
+		"key": "public_holiday",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Yes, the India Priviledged Leave (Vacation)  policy is applicable to all people with home office as India.",
+		"key": "stai_impact",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy. As per the LOA policy, you need to exhaust the below type of leave before applying for Unpaid LOA: 1. For Medical LOA = Utilize all Sick leaves+accrued vacations+Additional sick leaves+ Advanced leaves 2.For reasons other than medical = Utilize all accrued vacations+negative vacations provision 3. For Education LOA = Utilize all accrued Vacations Please raise a helpdesk ticket with `People Success` and attach Personal LOA initiation form along with the below required approvals: 1. People Manager and People Strategist (if aligned to a project) 2. Bench Manager(if you are on Bench) Link for Personal LOA initiation form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Personal%20LOA%20Initiation%20Form(India).pdf For eligibility and further details please refer to India LOA policy on People Portal: http://peopleportal2/Content/GPC/Ind/Pages/India-Personal-Educational-LOA.aspx",
+		"key": "unpaid_loa",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Any Public holidays or Floating holidays in the maternity leave period will not be adjusted, and hence will be counted in the maternity leave period.",
+		"key": "adjust_mat_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "To initiate Maternity LOA, the individual is required to inform their people manager/staffing partner about Maternity Leave requirement at least 7 weeks before the leave is to commence and log a helpdesk ticket under people success with the following documents: 1. Maternity LOA Initiation form 2. Form E 3. Approval from People Manager (if staffed) in msg format 4. Approval from staffing strategist (if on bench) in msg format. Please refer to the following link for the forms: Maternity LOA Form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Maternity%20Adoption%20Leave%20of%20Absence%20(LOA)%20-%20India.pdf Form E: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/FORM%20E_Final.doc For more details, you may refer to the Maternity LOA policy on people portal at below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Parental-Program-Policy-for-New,-Adoptive,-Surrogate-Mothers.aspx",
+		"key": "inform_loa",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You can track your timecard as `Bereavement leave`. Please ensure your People Manager is aware of the same. You are not required to raise a helpdesk ticket for tracking these leaves from backend.",
+		"key": "bereavement_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You can track your timecard as `Paternity leave`. Please ensure your People Manager is aware of the same. You are not required to raise a helpdesk ticket for tracking these leaves from backend.",
+		"key": "pat_leave_timecard",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Person relocating within Sapient India home office regions NCR to Bangalore/Mumbai or Vice Versa (Long Term Business Relocation) and New hires relocating to Sapient location (Offer Letter mentions the eligibility) will be eligible for five (5) days of relocation vacation You can track your timecard as `Relocation leave`. Please ensure your People Manager is aware of the same. You are not required to raise a helpdesk ticket for tracking these leaves from backend.",
+		"key": "relocation_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "As per the process, additional sick leave can only be availed if the person has exhausted all the Privileged leaves and 7 initial sick leaves. Please mark additional sick Leaves as `Sick time` in time tracking and log a helpdesk ticket with People Success along with approval from the Project Director, People Strategist and supporting medical documents from a medical practitioner. For people on bench manager approval from your Bench Manager along with medical document. In case you have any further queries, please reach out to your People Strategist. For more information please go through the below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Other-Time-Off.aspx",
+		"key": "add_sick_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You are entitled to 5 days of Paternity leaves which can be taken in parts, if required, within 6 months of birth/adoption of a child.",
+		"key": "pat_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "As per the India vacation policy, the vacation accrual rate is standard, computed at 1.5 days per month (for people with home location Bangalore and NCR) and 1.83 days per month (for people with home location Mumbai) which is accrued at the end of the month. This is not based on a person’s tenure at Sapient.",
+		"key": "difference_pl",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Casual leave is to enable Sapient India people under special circumstances (in case of ‘urgent personal matters) to be absent from duty for short periods. Sapient India People are entitled for 10 Casual Leavefor each calendar year PS: Mid-year joiners are entitled to pro-rated Casual Leaves For detailed information on the Casual leave policy please refer to the below link http://peopleportal2/Content/GPC/Ind/Pages/vac.aspx",
+		"key": "casual_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "If your employment is terminated by you or Sapient, any priviledge leave taken but not yet accrued will be deducted from your final paycheck. Any unused accrued priviledged leave may be taken subject to the approval process or paid in your final paycheck. Please note for any separation initiated on or after Jan 1, 2014 any unutilized vacation/PL balance encashment at the time of exit from Sapient will be calculated on the base salary.",
+		"key": "pl_leave_balance",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "If you permanently relocate to geography outside India, you will be paid out your India Priviledged Leave (Vacation) balances in your financial settlement. Effective your localization date, you will accrue Priviledged Leave (Vacation)at the accrual guidelines of the geography you are localizing to.",
+		"key": "pl_balance",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "While you can take  Privileged Leaves, taking a Sick Leave other than reasons of health is not permitted. Please take approval from your People Manager before proceeding for leave.",
+		"key": "casual_leave_finished",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "As per the policy, any full-time Sapient person, who has satisfactorily completed at least two years of continuous employment, can apply for an Educational LOA. For this, you need to log a helpdesk ticket with People Success along with the approval from your People Strategist and Project Manager. Without the fulfillment of the above mentioned criterion, an Educational LOA cannot be approved.",
+		"key": "education_loa",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "A women is eligible for 26 weeks (182 calendar days) of paid maternity leave. It is recommended that the person concerned avails leave of 6 weeks prior to and including date of delivery, and 6 weeks following that date, the eligible person can choose to take less than six weeks before delivery and more than six weeks after the delivery. For more details, you may refer to the Maternity LOA policy on people portal at below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Parental-Program-Policy-for-New,-Adoptive,-Surrogate-Mothers.aspx",
+		"key": "mat_leave_duration",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "The minimum number of hours that qualify for full time week is 8 hours/day i.e. 40 hours a week. In case you need any further details, please refer to the Time Tracking policy on the below specified link:  http://peopleportal2/Content/TimeTracking/Pages/Time-Tracking-Policy.aspx",
+		"key": "full_time_weak",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "As per the time off policy, you are eligible for 15 medical leaves per calendar year. 7 sick leaves out of the total eligibility of 15 can be availed for self or for an immediate family member. Sick leaves over and above 7 can be availed only for self after exhausting your available vacation balance and would require requisite approval from the Project Director, People Strategist with supporting medical documents from a medical practitioner. For people on bench, approval from your Bench Manager along with medical document. The scanned copy of the requisite approvals and medical documents should be submitted via helpdesk to `People Success` so that your additional leaves can be added in your vacation tracker. For detailed information on the sick leave policy please refer to the below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Other-Time-Off.aspx",
+		"key": "additional_leaves",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy. As per the LOA policy, you need to exhaust the below type of leave before applying for Unpaid LOA: 1. For Medical LOA = Utilize all Sick leaves+accrued vacations+Additional sick leaves+ Advanced leaves 2.For reasons other than medical = Utilize all accrued vacations+negative vacations provision 3. For Education LOA = Utilize all accrued Vacations Please raise a helpdesk ticket with `People Success` and attach Personal LOA initiation form along with the below required approvals: 1. People Manager and People Strategist (if aligned to a project) 2. Bench Manager(if you are on Bench) Link for Personal LOA initiation form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Personal%20LOA%20Initiation%20Form(India).pdf For eligibility and further details please refer to India LOA policy on People Portal: http://peopleportal2/Content/GPC/Ind/Pages/India-Personal-Educational-LOA.aspx",
+		"key": "unpaid_loa",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "People can carry over all un-utilized Priviledged Leaves; this would be on an upper limit of 45 days, any Priviledged Leave over and above this limit would get encased when new calendar year starts along with the Feb/Mar pay out.",
+		"key": "pl_carry_forward",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Any vacation/Priviledged Leave over and above this limit would get en-cashed in the start of subsequent new calendar year along with the Feb/ Mar pay out.",
+		"key": "surplus_pl_leave",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "You can go through the below link for detailed information on our vacation policy : http://peopleportal2/NavPages/Pages/Vacation-Time-Off.aspx?Geo=INDIA",
+		"key": "vacation_policy",
+		"tType": "text",
+		"options": []
+	},{
+		"response": "Priviledged leave (Vacation) entitlements are governed by State laws and are provided accordingly.In future, if your home office gets changed then your entitlement will be revised accordingly.",
+		"key": "different_pl",
+		"tType": "text",
+		"options": []
+	}, {
+		"response": "How was your experience?",
+		"tType": "optionList",
+		"key": "feedback",
+		"options": [{
+			"id": "one_star",
+			"name": "1 Star"
+		}, {
+			"id": "three_star",
+			"name": "3 Star"
+		}, {
+			"id": "five_star",
+			"name": "5 Star"
+		}]
+	}, {
+		"response": "Please share your comments.",
+		"tType": "text",
+		"key": "comments",
+		"options": []
+	}, {
+		"key": "thanks_greeting",
+		"response": "Thanks for feedback & comment. See you again :)",
+		"tType": "text",
+		"options": []
+	}],
+	"chatData": []
+}
