@@ -65,7 +65,7 @@
 		"tType": "text",
 		"options": []
 	},{
-		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy. As per the LOA policy, you need to exhaust the below type of leave before applying for Unpaid LOA: 1. For Medical LOA = Utilize all Sick leaves+accrued vacations+Additional sick leaves+ Advanced leaves 2.For reasons other than medical = Utilize all accrued vacations+negative vacations provision 3. For Education LOA = Utilize all accrued Vacations Please raise a helpdesk ticket with `People Success` and attach Personal LOA initiation form along with the below required approvals: 1. People Manager and People Strategist (if aligned to a project) 2. Bench Manager(if you are on Bench) Link for Personal LOA initiation form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Personal%20LOA%20Initiation%20Form(India).pdf For eligibility and further details please refer to India LOA policy on People Portal: http://peopleportal2/Content/GPC/Ind/Pages/India-Personal-Educational-LOA.aspx",
+		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy.",
 		"key": "unpaid_loa",
 		"tType": "text",
 		"options": []
@@ -75,7 +75,7 @@
 		"tType": "text",
 		"options": []
 	},{
-		"response": "To initiate Maternity LOA, the individual is required to inform their people manager/staffing partner about Maternity Leave requirement at least 7 weeks before the leave is to commence and log a helpdesk ticket under people success with the following documents: 1. Maternity LOA Initiation form 2. Form E 3. Approval from People Manager (if staffed) in msg format 4. Approval from staffing strategist (if on bench) in msg format. Please refer to the following link for the forms: Maternity LOA Form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Maternity%20Adoption%20Leave%20of%20Absence%20(LOA)%20-%20India.pdf Form E: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/FORM%20E_Final.doc For more details, you may refer to the Maternity LOA policy on people portal at below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Parental-Program-Policy-for-New,-Adoptive,-Surrogate-Mothers.aspx",
+		"response": "To initiate Maternity LOA, the individual is required to inform their people manager/staffing partner about Maternity Leave requirement at least 7 weeks before the leave is to commence and log a helpdesk ticket under people success with the following documents: 1. Maternity LOA Initiation form 2. Form E 3. Approval from People Manager (if staffed) in msg format 4. Approval from staffing strategist (if on bench) in msg format.",
 		"key": "inform_loa",
 		"tType": "text",
 		"options": []
@@ -95,7 +95,7 @@
 		"tType": "text",
 		"options": []
 	},{
-		"response": "As per the process, additional sick leave can only be availed if the person has exhausted all the Privileged leaves and 7 initial sick leaves. Please mark additional sick Leaves as `Sick time` in time tracking and log a helpdesk ticket with People Success along with approval from the Project Director, People Strategist and supporting medical documents from a medical practitioner. For people on bench manager approval from your Bench Manager along with medical document. In case you have any further queries, please reach out to your People Strategist. For more information please go through the below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Other-Time-Off.aspx",
+		"response": "As per the process, additional sick leave can only be availed if the person has exhausted all the Privileged leaves and 7 initial sick leaves. Please mark additional sick Leaves as `Sick time` in time tracking and log a helpdesk ticket with People Success along with approval from the Project Director, People Strategist and supporting medical documents from a medical practitioner.",
 		"key": "add_sick_leave",
 		"tType": "text",
 		"options": []
@@ -145,12 +145,12 @@
 		"tType": "text",
 		"options": []
 	},{
-		"response": "As per the time off policy, you are eligible for 15 medical leaves per calendar year. 7 sick leaves out of the total eligibility of 15 can be availed for self or for an immediate family member. Sick leaves over and above 7 can be availed only for self after exhausting your available vacation balance and would require requisite approval from the Project Director, People Strategist with supporting medical documents from a medical practitioner. For people on bench, approval from your Bench Manager along with medical document. The scanned copy of the requisite approvals and medical documents should be submitted via helpdesk to `People Success` so that your additional leaves can be added in your vacation tracker. For detailed information on the sick leave policy please refer to the below link: http://peopleportal2/Content/GPC/Ind/Pages/India-Other-Time-Off.aspx",
+		"response": "As per the time off policy, you are eligible for 15 medical leaves per calendar year. 7 sick leaves out of the total eligibility of 15 can be availed for self or for an immediate family member. Sick leaves over and above 7 can be availed only for self after exhausting your available vacation balance and would require requisite approval from the Project Director, People Strategist with supporting medical documents from a medical practitioner.",
 		"key": "additional_leaves",
 		"tType": "text",
 		"options": []
 	},{
-		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy. As per the LOA policy, you need to exhaust the below type of leave before applying for Unpaid LOA: 1. For Medical LOA = Utilize all Sick leaves+accrued vacations+Additional sick leaves+ Advanced leaves 2.For reasons other than medical = Utilize all accrued vacations+negative vacations provision 3. For Education LOA = Utilize all accrued Vacations Please raise a helpdesk ticket with `People Success` and attach Personal LOA initiation form along with the below required approvals: 1. People Manager and People Strategist (if aligned to a project) 2. Bench Manager(if you are on Bench) Link for Personal LOA initiation form: http://peopleportal2/Content/GPC/Ind/India%20GPC%20Forms/Personal%20LOA%20Initiation%20Form(India).pdf For eligibility and further details please refer to India LOA policy on People Portal: http://peopleportal2/Content/GPC/Ind/Pages/India-Personal-Educational-LOA.aspx",
+		"response": "Unpaid LOA is given up to a maximum of 6 months period but given up to 3 months at the first instance, based on emergency and special reasons other than those provided for by Sapient under the Leave Policy.",
 		"key": "unpaid_loa",
 		"tType": "text",
 		"options": []
